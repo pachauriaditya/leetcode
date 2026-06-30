@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pachauriaditya/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/pachauriaditya/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/pachauriaditya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/pachauriaditya/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/pachauriaditya/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/pachauriaditya/leetcode/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/pachauriaditya/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
