@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pachauriaditya/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/pachauriaditya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pachauriaditya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/pachauriaditya/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pachauriaditya/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/pachauriaditya/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/pachauriaditya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pachauriaditya/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/pachauriaditya/leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/pachauriaditya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pachauriaditya/leetcode/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pachauriaditya/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
