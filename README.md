@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pachauriaditya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/pachauriaditya/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/pachauriaditya/leetcode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/pachauriaditya/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pachauriaditya/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/pachauriaditya/leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/pachauriaditya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/pachauriaditya/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pachauriaditya/leetcode/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/pachauriaditya/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
